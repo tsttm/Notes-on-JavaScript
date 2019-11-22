@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## JavaScript简史
 
 1995年由就职于Netscape公司的布兰登 · 艾奇（Brendan Eich）开发。
@@ -75,3 +76,7 @@ ECMA-262标准规定了语言的组成部分。ECMAScript就是对实现该标�
 
 
 
+=======
+# Notes-on-JavaScript
+Summaries and notes on JavaScript
+>>>>>>> github/master
